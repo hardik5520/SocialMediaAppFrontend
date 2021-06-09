@@ -1,0 +1,14 @@
+ .inputs {
+    width: 100%;
+    height: 100%;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .inputs img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+  }  
